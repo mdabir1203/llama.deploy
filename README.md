@@ -14,6 +14,7 @@ with a temperature of 0.2, top-k sampling with a value of 10000, and a repetitio
 Script for the alpaca13B model
 
 `chat.sh`
+
 Script for running gpt4all-7B model with quantized lora
 
 `reason-act.sh`
